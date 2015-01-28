@@ -1,12 +1,7 @@
 package main
 
 import (
-	"compress/flate"
 	"fmt"
-	"io/ioutil"
-	"os"
-	"path/filepath"
-	"text/template"
 
 	"github.com/mitchellh/packer/common"
 	"github.com/mitchellh/packer/packer"
